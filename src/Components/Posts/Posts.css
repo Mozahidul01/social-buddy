@@ -1,0 +1,28 @@
+.post-area{
+    background: #2b2d35 !important;
+    border-radius: 10px;
+    padding: 20px 5px;
+    margin: 15px;
+}
+
+.post-tittle{
+    font-size: 21px;
+    text-transform: capitalize;
+}
+
+.post-details{
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.more-link{
+    text-decoration: none;
+}
+
+.more-btn{
+    background-color: #5a5d68 !important;
+    color: #fff !important;
+    font-size: 16px !important;
+    text-transform: capitalize !important;
+    margin-top: 10px !important;
+}

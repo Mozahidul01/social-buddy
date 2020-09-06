@@ -1,0 +1,32 @@
+.comment-box {
+    background: #232429 ;
+    padding: 20px 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.comment-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px !important;
+}
+
+.comment-info h4{
+    font-size: 16px !important;
+    text-transform: capitalize;
+}
+
+.comment-info p{
+    font-size: 12px !important;
+    line-height: 5px !important;
+    margin-top: -10px !important;
+    color: #AAAAAA;
+}
+
+.comment-text {
+    font-size: 14px !important;
+    text-transform: capitalize;
+}
+
